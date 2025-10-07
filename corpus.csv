@@ -1,6 +1,100 @@
-私は日本語を学んでいる学生です。
-私はサッカーを観るのが好きです。
-元気ですか？
-あなたの名前は何ですか？
-英語はわかりますか？
-私はほとんどの時間をコンピューターで過ごしたり本を読んだりするのが好きです。
+input, translation
+こんにちは。,Dobar dan.
+私は学生です。,Ja sam student.
+これは本です。,Ovo je knjiga.
+今日は暑いです。,Danas je vruće.
+犬が好きです。,Volim pse.
+猫がかわいいです。,Mačka je slatka.
+ご飯を食べます。,Jedem rižu.
+友達と話します。,Razgovaram s prijateljem.
+水をください。,Molim vodu.
+私は日本人です。,Ja sam Japanac.
+おはようございます。,Dobro jutro.
+ありがとう。,Hvala.
+さようなら。,Doviđenja.
+すみません。,Oprostite.
+いいえ。,Ne.
+はい。,Da.
+わかりません。,Ne razumijem.
+コーヒーを飲みます。,Pijem kavu.
+学校に行きます。,Idem u školu.
+先生は優しいです。,Učitelj je ljubazan.
+今日は楽しいです。,Danas je zabavno.
+お元気ですか。,Kako ste?
+彼は医者です。,On je liječnik.
+私はパンを食べます。,Jedem kruh.
+映画を見ます。,Gledam film.
+本を読みます。,Čitam knjigu.
+彼女はきれいです。,Ona je lijepa.
+今何時ですか。,Koliko je sati?
+駅はどこですか。,Gdje je kolodvor?
+トイレはどこですか。,Gdje je WC?
+私は学生ではありません。,Nisam student.
+雨が降っています。,Pada kiša.
+海が見えます。,Vidim more.
+花が咲いています。,Cvijet cvate.
+今日は日曜日です。,Danas je nedjelja.
+公園で遊びます。,Igram se u parku.
+バスに乗ります。,Ulazim u autobus.
+手紙を書きます。,Pišem pismo.
+音楽が好きです。,Volim glazbu.
+りんごを食べます。,Jedem jabuku.
+部屋がきれいです。,Soba je čista.
+友達が来ます。,Prijatelj dolazi.
+日本は美しいです。,Japan je lijep.
+クロアチアが好きです。,Volim Hrvatsku.
+私は泳ぎます。,Plivam.
+彼はサッカーをします。,On igra nogomet.
+今日は月曜日です。,Danas je ponedjeljak.
+魚を食べます。,Jedem ribu.
+先生に会いました。,Sreo sam učitelja.
+青い空が見えます。,Vidim plavo nebo.
+パンを買いました。,Kupio sam kruh.
+彼は元気です。,On je dobro.
+楽しい時間でした。,Bilo je zabavno.
+お茶を飲みましょう。,Popijmo čaj.
+ここは静かです。,Ovdje je tiho.
+昨日は雨でした。,Jučer je padala kiša.
+クロアチアの海はきれいです。,More u Hrvatskoj je lijepo.
+お金を持っています。,Imam novac.
+バナナが好きです。,Volim banane.
+私は毎朝コーヒーを飲むのが好きです。,Volim piti kavu svako jutro.
+友達と週末に映画館に行きました。,S prijateljem sam išao u kino za vikend.
+昨日買ったシャツはとても安かったです。,Košulja koju sam jučer kupio bila je vrlo jeftina.
+夏には海で泳ぐのが一番楽しいです。,Ljeti je najzabavnije plivati u moru.
+新しい言語を学ぶのは難しいですが楽しいです。,"Učiti novi jezik je teško, ali zabavno."
+彼は料理が上手で、特にパスタが得意です。,"On dobro kuha, posebno je dobar s tjesteninom."
+図書館で静かに本を読みました。,Tiho sam čitao knjigu u knjižnici.
+雨の日には家で音楽を聞くのが好きです。,Volim slušati glazbu kod kuće kad pada kiša.
+クロアチアの料理はとても美味しいです。,Hrvatska kuhinja je jako ukusna.
+友達が作ったケーキは甘すぎました。,Torta koju je prijatelj napravio bila je preslatka.
+旅行に行く前に荷物を準備しました。,Pripremio sam prtljagu prije putovanja.
+彼女は毎日ピアノを練習しています。,Ona svaki dan vježba klavir.
+昨日の夜は星がとてもきれいでした。,Sinoć su zvijezde bile jako lijepe.
+空港までタクシーで行きました。,Do zračne luke sam išao taksijem.
+彼はクロアチアのサッカーチームが好きです。,On voli hrvatsku nogometnu reprezentaciju.
+休日には家族と一緒に料理をします。,Za praznike kuham s obitelji.
+私は新しいカメラを買いたいと思っています。,Razmišljam kupiti novi fotoaparat.
+彼は来年日本に留学する予定です。,On planira iduće godine studirati u Japanu.
+美術館で多くの絵を見ました。,U muzeju sam vidio mnogo slika.
+彼女は旅行中にたくさんの写真を撮りました。,Ona je snimila mnogo fotografija tijekom putovanja.
+あのカフェ、まじで雰囲気いいよね、イストラっぽくて最高。,"Onaj kafić ima stvarno dobru vibru, baš podsjeća na Istru."
+昨日ロヴィニで食べたパスタ、ガチでうまかったわ。,Tjestenina koju sam jučer jeo u Rovinju bila je stvarno odlična.
+プーラの夜景、エモすぎて泣きそうだった。,Noćni prizor Pule bio je toliko emotivan da sam skoro zaplakao.
+イストラの海、やばいくらい透明だった。,More u Istri bilo je nevjerojatno bistro.
+あのトリュフパスタ、コスパ良すぎてびっくりした。,Ta tjestenina s tartufima bila je nevjerojatno povoljna.
+地元の人と話したけど、まじでフレンドリーだった。,"Razgovarao sam s lokalnim ljudima, stvarno su bili ljubazni."
+モトヴンの坂道、足パンになったけど景色最高だった。,"U Motovunu su me noge ubile od penjanja, ali pogled je bio nevjerojatan."
+イストラのワイン、まじでクセになる味だった。,Istarsko vino imalo je stvarno neodoljiv okus.
+ロヴィニの夕日、インスタ映えすぎた。,Zalazak sunca u Rovinju bio je savršen za Instagram.
+地元の市場で食べたオリーブ、やばいくらい美味しかった。,Masline koje sam probao na lokalnoj tržnici bile su nevjerojatno ukusne.
+プーラの円形劇場、写真よりリアルの方が断然すごい。,Arena u Puli uživo izgleda puno bolje nego na slikama.
+友達とポレッチでカフェ巡りしたけど、全部おしゃれだった。,S prijateljem sam obilazio kafiće u Poreču i svi su bili jako šarmantni.
+クロアチアの海辺でチルするの、最高すぎる。,Opustiti se na hrvatskoj obali je savršeno.
+イストラの料理、ほんとにレベチだった。,Istarska kuhinja je stvarno bila na drugoj razini.
+バレの街、観光客少なくて穴場だったわ。,Grad Bale bio je prava skrivena lokacija bez turista.
+地元の人におすすめされた店、マジで当たりだった。,Restoran koji su mi preporučili lokalci bio je pun pogodak.
+ブリオニ島、静かでリゾート感ハンパなかった。,Brijuni su bili mirni i nevjerojatno luksuzni.
+イストラの道、レンタカーで走るの気持ちよすぎた。,Vožnja iznajmljenim autom kroz Istru bila je predivna.
+ロヴィニの旧市街、雰囲気ありすぎて時間忘れた。,Stari grad Rovinja bio je toliko čaroban da sam izgubio pojam o vremenu.
+プーラの夜風、心地よくて眠くなった。,Noćni povjetarac u Puli bio je tako ugodan da sam postao pospan.
