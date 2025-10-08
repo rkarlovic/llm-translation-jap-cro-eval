@@ -1,0 +1,152 @@
+input,translation,llm_results
+こんにちは。,Dobar dan.,"Dobar dan.
+"
+私は学生です。,Ja sam student.,Ja sam student.
+これは本です。,Ovo je knjiga.,"Ovo je knjiga.
+"
+今日は暑いです。,Danas je vruće.,Danas je vruće.
+犬が好きです。,Volim pse.,"Volim pse.
+"
+猫がかわいいです。,Mačka je slatka.,Mačka je slatka.
+ご飯を食べます。,Jedem rižu.,"J'ohanću jesti.
+"
+友達と話します。,Razgovaram s prijateljem.,"Razgovarat ću s prijateljem/prijateljicom.
+"
+水をください。,Molim vodu.,"Molim vodu.
+"
+私は日本人です。,Ja sam Japanac.,Ja sam Japanac.
+おはようございます。,Dobro jutro.,Dobro jutro.
+ありがとう。,Hvala.,"Hvala ti.
+"
+さようなら。,Doviđenja.,Doviđenja.
+すみません。,Oprostite.,"Molim vas.
+"
+いいえ。,Ne.,"Nema.
+"
+はい。,Da.,"U redu.
+"
+わかりません。,Ne razumijem.,"Ne razumijem.
+"
+コーヒーを飲みます。,Pijem kavu.,"Uživat ću u kafi.
+"
+学校に行きます。,Idem u školu.,"Idem u školu.
+"
+先生は優しいです。,Učitelj je ljubazan.,Profesor je ljubazan.
+今日は楽しいです。,Danas je zabavno.,Danas je zabavno.
+お元気ですか。,Kako ste?,"Što ima?
+"
+彼は医者です。,On je liječnik.,On je liječnik.
+私はパンを食べます。,Jedem kruh.,Ja jedem kruh.
+映画を見ます。,Gledam film.,"Gledam film.
+"
+本を読みます。,Čitam knjigu.,Čitat ću knjigu.
+彼女はきれいです。,Ona je lijepa.,"Ona je lijepa.
+"
+今何時ですか。,Koliko je sati?,U koliko vas je sati?
+駅はどこですか。,Gdje je kolodvor?,Gdje je stanica?
+トイレはどこですか。,Gdje je WC?,Gdje je toalet?
+私は学生ではありません。,Nisam student.,Ne sam student.
+雨が降っています。,Pada kiša.,Pada kiša.
+海が見えます。,Vidim more.,Vidim more.
+花が咲いています。,Cvijet cvate.,Cvijetovi cvjetaju.
+今日は日曜日です。,Danas je nedjelja.,Danas je nedjelja.
+公園で遊びます。,Igram se u parku.,Играћемо се у парку.
+バスに乗ります。,Ulazim u autobus.,"Uskrećem se u bus.
+"
+手紙を書きます。,Pišem pismo.,Pišem pismo.
+音楽が好きです。,Volim glazbu.,"Volim glazbu.
+"
+りんごを食べます。,Jedem jabuku.,"Jagodi jedem.
+"
+部屋がきれいです。,Soba je čista.,Soba je čista.
+友達が来ます。,Prijatelj dolazi.,Prijatelj mi dolazi.
+日本は美しいです。,Japan je lijep.,Japan je lijep.
+クロアチアが好きです。,Volim Hrvatsku.,Sviđa mi se Hrvatska.
+私は泳ぎます。,Plivam.,Ja plivam.
+彼はサッカーをします。,On igra nogomet.,"On je igra fudbala.
+"
+今日は月曜日です。,Danas je ponedjeljak.,"Danas je utorak.
+"
+魚を食べます。,Jedem ribu.,"Jedu ribu.
+"
+先生に会いました。,Sreo sam učitelja.,"Susreo sam/susrela sam profesora/profesoricu.
+"
+青い空が見えます。,Vidim plavo nebo.,"Vidim plavu ravnu.
+"
+パンを買いました。,Kupio sam kruh.,"Kući sam kupio/kupila kruh.
+"
+彼は元気です。,On je dobro.,"On je u redu.
+"
+楽しい時間でした。,Bilo je zabavno.,"Bilo je zabavno.
+"
+お茶を飲みましょう。,Popijmo čaj.,"Slijedite me za čaj.
+"
+ここは静かです。,Ovdje je tiho.,"Ovo je tiho.
+"
+昨日は雨でした。,Jučer je padala kiša.,"Jučer je kiša pala.
+"
+クロアチアの海はきれいです。,More u Hrvatskoj je lijepo.,Hrvatsko more je lijepo.
+お金を持っています。,Imam novac.,Imam novca.
+バナナが好きです。,Volim banane.,"Volim banane.
+"
+私は毎朝コーヒーを飲むのが好きです。,Volim piti kavu svako jutro.,"Svi dani popodne pijem kavu.
+"
+友達と週末に映画館に行きました。,S prijateljem sam išao u kino za vikend.,Posjetili smo kino s prijateljima u subotu i nedjelju.
+昨日買ったシャツはとても安かったです。,Košulja koju sam jučer kupio bila je vrlo jeftina.,"Jučer kupljena košulja je bila vrlo jeftina.
+"
+夏には海で泳ぐのが一番楽しいです。,Ljeti je najzabavnije plivati u moru.,Ljeti je najzabavnije plivati na moru.
+新しい言語を学ぶのは難しいですが楽しいです。,"Učiti novi jezik je teško, ali zabavno.","Učenje novog jezika je teško, ali i zabavno."
+彼は料理が上手で、特にパスタが得意です。,"On dobro kuha, posebno je dobar s tjesteninom.","On je dobar kuhar, a posebno je dobar u pripremi tjestenine."
+図書館で静かに本を読みました。,Tiho sam čitao knjigu u knjižnici.,"U knjižnici sam tiho čitao/čitala knjige.
+"
+雨の日には家で音楽を聞くのが好きです。,Volim slušati glazbu kod kuće kad pada kiša.,Volim slušati glazbu kod kuće kišnih dana.
+クロアチアの料理はとても美味しいです。,Hrvatska kuhinja je jako ukusna.,Hrvatska kuhinja je vrlo ukusna.
+友達が作ったケーキは甘すぎました。,Torta koju je prijatelj napravio bila je preslatka.,"Pohvale za tvoje prijatelje koji su napravili tortu, ali je bila previše slatka."
+旅行に行く前に荷物を準備しました。,Pripremio sam prtljagu prije putovanja.,"Pripremio/la sam prtljagu prije putovanja.
+"
+彼女は毎日ピアノを練習しています。,Ona svaki dan vježba klavir.,"Ona svake večeri svira na klaviru.
+"
+昨日の夜は星がとてもきれいでした。,Sinoć su zvijezde bile jako lijepe.,"Jučer navečer su zvijezde bile jako lijepe.
+"
+空港までタクシーで行きました。,Do zračne luke sam išao taksijem.,"Dao sam/Dam sam/Dao sam se/Dam se sam/Dao sam se/Dam se sam tuk-tuk do zračne luke.
+"
+彼はクロアチアのサッカーチームが好きです。,On voli hrvatsku nogometnu reprezentaciju.,"On voli nogometni klub iz Hrvatske.
+"
+休日には家族と一緒に料理をします。,Za praznike kuham s obitelji.,"U slobodno vrijeme spremanjem s obitelji.
+"
+私は新しいカメラを買いたいと思っています。,Razmišljam kupiti novi fotoaparat.,"Želim kupiti novu kameru.
+"
+彼は来年日本に留学する予定です。,On planira iduće godine studirati u Japanu.,On je planira studirati u Japanu sljedeće godine.
+美術館で多くの絵を見ました。,U muzeju sam vidio mnogo slika.,Posjetio sam mnoge slike u umjetničkoj galeriji.
+彼女は旅行中にたくさんの写真を撮りました。,Ona je snimila mnogo fotografija tijekom putovanja.,Ona je tijekom putovanja snimila mnogo fotografija.
+あのカフェ、まじで雰囲気いいよね、イストラっぽくて最高。,"Onaj kafić ima stvarno dobru vibru, baš podsjeća na Istru.","Ono to mjesto, stvarno ima dobar vibe, baš kao u Istri, super je."
+昨日ロヴィニで食べたパスタ、ガチでうまかったわ。,Tjestenina koju sam jučer jeo u Rovinju bila je stvarno odlična.,"Jučer sam u Rovinju jela pastu, bila je stvarno ukusna.
+"
+プーラの夜景、エモすぎて泣きそうだった。,Noćni prizor Pule bio je toliko emotivan da sam skoro zaplakao.,Pogled na zaliv Purola je bio toliko emotivan da sam plakao/la.
+イストラの海、やばいくらい透明だった。,More u Istri bilo je nevjerojatno bistro.,"More u Istri, voda je bila toliko čista da je bila zastrašujuća.
+"
+あのトリュフパスタ、コスパ良すぎてびっくりした。,Ta tjestenina s tartufima bila je nevjerojatno povoljna.,"Otkad sam toliko iznenažen/a zbog tih truff pastama, zbog njihove odlične vrijednosti za novac.
+"
+地元の人と話したけど、まじでフレンドリーだった。,"Razgovarao sam s lokalnim ljudima, stvarno su bili ljubazni.","Razgovarao sam s lokalnim ljudima i bili su stvarno ljubazni.
+"
+モトヴンの坂道、足パンになったけど景色最高だった。,"U Motovunu su me noge ubile od penjanja, ali pogled je bio nevjerojatan.","Na padu Motvuna, noge mi su mi se natopile, ali je pogled bio zadivljujući."
+イストラのワイン、まじでクセになる味だった。,Istarsko vino imalo je stvarno neodoljiv okus.,"Vino iz Istre, stvarno je imao okus koji me obožava."
+ロヴィニの夕日、インスタ映えすぎた。,Zalazak sunca u Rovinju bio je savršen za Instagram.,Zaduzinjak zalaska sunca u Rovinju je bio previše za Instagram.
+地元の市場で食べたオリーブ、やばいくらい美味しかった。,Masline koje sam probao na lokalnoj tržnici bile su nevjerojatno ukusne.,"Maslinu koju sam jeo na lokalnom tržnici, bila je užuškana.
+"
+プーラの円形劇場、写真よりリアルの方が断然すごい。,Arena u Puli uživo izgleda puno bolje nego na slikama.,"Teatar Purola, fotografije su puno realnije i mnogo bolji."
+友達とポレッチでカフェ巡りしたけど、全部おしゃれだった。,S prijateljem sam obilazio kafiće u Poreču i svi su bili jako šarmantni.,"S prijateljima sam ispijao kavu u Poreču i sve je bilo predivno.
+"
+クロアチアの海辺でチルするの、最高すぎる。,Opustiti se na hrvatskoj obali je savršeno.,"Biti opušten na hrvatskom moru je apsolutno zadivljujući.
+"
+イストラの料理、ほんとにレベチだった。,Istarska kuhinja je stvarno bila na drugoj razini.,"Jedilima iz Istre, stvarno je bilo izvanredno.
+"
+バレの街、観光客少なくて穴場だったわ。,Grad Bale bio je prava skrivena lokacija bez turista.,"U gradu pašnjaka je bilo malo turista, pa je to bila prava skrivena lokacija.
+"
+地元の人におすすめされた店、マジで当たりだった。,Restoran koji su mi preporučili lokalci bio je pun pogodak.,"Mjestimoj publici se preporučeno je mjesto, stvarno je bilo odlično."
+ブリオニ島、静かでリゾート感ハンパなかった。,Brijuni su bili mirni i nevjerojatno luksuzni.,"Brojilišće je tiho i kao raj.
+"
+イストラの道、レンタカーで走るの気持ちよすぎた。,Vožnja iznajmljenim autom kroz Istru bila je predivna.,"Put do Istre, bilo je predivno voziti se iznajmljenom autom."
+ロヴィニの旧市街、雰囲気ありすぎて時間忘れた。,Stari grad Rovinja bio je toliko čaroban da sam izgubio pojam o vremenu.,"U starogradskom dijelu Rovinja, izgubio sam svjesnost zbog atmosfere."
+プーラの夜風、心地よくて眠くなった。,Noćni povjetarac u Puli bio je tako ugodan da sam postao pospan.,"Zavirak sunca kroz prozor, ugodno je spopala.
+"

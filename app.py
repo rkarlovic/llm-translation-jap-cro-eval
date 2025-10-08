@@ -16,6 +16,8 @@ def get_response(usr_messages, model_name):
                       "content": """
                                 You are a professional translator. Your task is to translate text from Japanese into Croatian.
 
+                                Pay attention to Croatian grammar, grammatical case and spelling.
+
                                 Return strictly only Croatian translation.
 
                                 Do not include any other text or explanation.
