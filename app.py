@@ -30,10 +30,15 @@ def get_response(usr_messages, model_name):
     """Get translation response from the model."""
     system_message = {
         "role": "user",
-        "content": """You are a professional translator. Your task is to translate text from Japanese into Croatian.
-Pay attention to Croatian grammar, grammatical case and spelling.
-Return strictly only Croatian translation.
-Do not include any other text or explanation."""
+        "content": """You are a professional translator specializing in translation from Japanese to Croatian.
+                    Translate the given Japanese text accurately, naturally, and fluently into Croatian.
+                    - Preserve the meaning, tone, and nuances of the original text.
+                    - Use correct Croatian grammar, cases, and spelling.
+                    - If the Japanese text includes idioms, slang, or cultural references, translate them into equivalent natural Croatian expressions, not literal ones.
+                    - Translate all words and phrases into Croatian. Do not include or keep any Japanese text. If unsure, provide the closest possible Croatian equivalent.
+                    - Return only the Croatian translation.
+                    - Do not include explanations, brackets, notes, or the original Japanese text.
+                    """
     }
     
     if not usr_messages or usr_messages[0]["role"] != "system":
@@ -80,7 +85,7 @@ for model_name in model_names:
         
         results.append({
             'input': row['input'],
-            'translation': row['translation'],
+            # 'translation': row['translation'],
             'llm_results': response if response else ""
         })
         
