@@ -1,152 +1,105 @@
-input,translation,llm_results
-こんにちは。,Dobar dan.,"Dobar dan.
-"
-私は学生です。,Ja sam student.,Ja sam student.
-これは本です。,Ovo je knjiga.,"Ovo je knjiga.
-"
-今日は暑いです。,Danas je vruće.,Danas je vruće.
-犬が好きです。,Volim pse.,"Volim pse.
-"
-猫がかわいいです。,Mačka je slatka.,Mačka je slatka.
-ご飯を食べます。,Jedem rižu.,"J'ohanću jesti.
-"
-友達と話します。,Razgovaram s prijateljem.,"Razgovarat ću s prijateljem/prijateljicom.
-"
-水をください。,Molim vodu.,"Molim vodu.
-"
-私は日本人です。,Ja sam Japanac.,Ja sam Japanac.
-おはようございます。,Dobro jutro.,Dobro jutro.
-ありがとう。,Hvala.,"Hvala ti.
-"
-さようなら。,Doviđenja.,Doviđenja.
-すみません。,Oprostite.,"Molim vas.
-"
-いいえ。,Ne.,"Nema.
-"
-はい。,Da.,"U redu.
-"
-わかりません。,Ne razumijem.,"Ne razumijem.
-"
-コーヒーを飲みます。,Pijem kavu.,"Uživat ću u kafi.
-"
-学校に行きます。,Idem u školu.,"Idem u školu.
-"
-先生は優しいです。,Učitelj je ljubazan.,Profesor je ljubazan.
-今日は楽しいです。,Danas je zabavno.,Danas je zabavno.
-お元気ですか。,Kako ste?,"Što ima?
-"
-彼は医者です。,On je liječnik.,On je liječnik.
-私はパンを食べます。,Jedem kruh.,Ja jedem kruh.
-映画を見ます。,Gledam film.,"Gledam film.
-"
-本を読みます。,Čitam knjigu.,Čitat ću knjigu.
-彼女はきれいです。,Ona je lijepa.,"Ona je lijepa.
-"
-今何時ですか。,Koliko je sati?,U koliko vas je sati?
-駅はどこですか。,Gdje je kolodvor?,Gdje je stanica?
-トイレはどこですか。,Gdje je WC?,Gdje je toalet?
-私は学生ではありません。,Nisam student.,Ne sam student.
-雨が降っています。,Pada kiša.,Pada kiša.
-海が見えます。,Vidim more.,Vidim more.
-花が咲いています。,Cvijet cvate.,Cvijetovi cvjetaju.
-今日は日曜日です。,Danas je nedjelja.,Danas je nedjelja.
-公園で遊びます。,Igram se u parku.,Играћемо се у парку.
-バスに乗ります。,Ulazim u autobus.,"Uskrećem se u bus.
-"
-手紙を書きます。,Pišem pismo.,Pišem pismo.
-音楽が好きです。,Volim glazbu.,"Volim glazbu.
-"
-りんごを食べます。,Jedem jabuku.,"Jagodi jedem.
-"
-部屋がきれいです。,Soba je čista.,Soba je čista.
-友達が来ます。,Prijatelj dolazi.,Prijatelj mi dolazi.
-日本は美しいです。,Japan je lijep.,Japan je lijep.
-クロアチアが好きです。,Volim Hrvatsku.,Sviđa mi se Hrvatska.
-私は泳ぎます。,Plivam.,Ja plivam.
-彼はサッカーをします。,On igra nogomet.,"On je igra fudbala.
-"
-今日は月曜日です。,Danas je ponedjeljak.,"Danas je utorak.
-"
-魚を食べます。,Jedem ribu.,"Jedu ribu.
-"
-先生に会いました。,Sreo sam učitelja.,"Susreo sam/susrela sam profesora/profesoricu.
-"
-青い空が見えます。,Vidim plavo nebo.,"Vidim plavu ravnu.
-"
-パンを買いました。,Kupio sam kruh.,"Kući sam kupio/kupila kruh.
-"
-彼は元気です。,On je dobro.,"On je u redu.
-"
-楽しい時間でした。,Bilo je zabavno.,"Bilo je zabavno.
-"
-お茶を飲みましょう。,Popijmo čaj.,"Slijedite me za čaj.
-"
-ここは静かです。,Ovdje je tiho.,"Ovo je tiho.
-"
-昨日は雨でした。,Jučer je padala kiša.,"Jučer je kiša pala.
-"
-クロアチアの海はきれいです。,More u Hrvatskoj je lijepo.,Hrvatsko more je lijepo.
-お金を持っています。,Imam novac.,Imam novca.
-バナナが好きです。,Volim banane.,"Volim banane.
-"
-私は毎朝コーヒーを飲むのが好きです。,Volim piti kavu svako jutro.,"Svi dani popodne pijem kavu.
-"
-友達と週末に映画館に行きました。,S prijateljem sam išao u kino za vikend.,Posjetili smo kino s prijateljima u subotu i nedjelju.
-昨日買ったシャツはとても安かったです。,Košulja koju sam jučer kupio bila je vrlo jeftina.,"Jučer kupljena košulja je bila vrlo jeftina.
-"
-夏には海で泳ぐのが一番楽しいです。,Ljeti je najzabavnije plivati u moru.,Ljeti je najzabavnije plivati na moru.
-新しい言語を学ぶのは難しいですが楽しいです。,"Učiti novi jezik je teško, ali zabavno.","Učenje novog jezika je teško, ali i zabavno."
-彼は料理が上手で、特にパスタが得意です。,"On dobro kuha, posebno je dobar s tjesteninom.","On je dobar kuhar, a posebno je dobar u pripremi tjestenine."
-図書館で静かに本を読みました。,Tiho sam čitao knjigu u knjižnici.,"U knjižnici sam tiho čitao/čitala knjige.
-"
-雨の日には家で音楽を聞くのが好きです。,Volim slušati glazbu kod kuće kad pada kiša.,Volim slušati glazbu kod kuće kišnih dana.
-クロアチアの料理はとても美味しいです。,Hrvatska kuhinja je jako ukusna.,Hrvatska kuhinja je vrlo ukusna.
-友達が作ったケーキは甘すぎました。,Torta koju je prijatelj napravio bila je preslatka.,"Pohvale za tvoje prijatelje koji su napravili tortu, ali je bila previše slatka."
-旅行に行く前に荷物を準備しました。,Pripremio sam prtljagu prije putovanja.,"Pripremio/la sam prtljagu prije putovanja.
-"
-彼女は毎日ピアノを練習しています。,Ona svaki dan vježba klavir.,"Ona svake večeri svira na klaviru.
-"
-昨日の夜は星がとてもきれいでした。,Sinoć su zvijezde bile jako lijepe.,"Jučer navečer su zvijezde bile jako lijepe.
-"
-空港までタクシーで行きました。,Do zračne luke sam išao taksijem.,"Dao sam/Dam sam/Dao sam se/Dam se sam/Dao sam se/Dam se sam tuk-tuk do zračne luke.
-"
-彼はクロアチアのサッカーチームが好きです。,On voli hrvatsku nogometnu reprezentaciju.,"On voli nogometni klub iz Hrvatske.
-"
-休日には家族と一緒に料理をします。,Za praznike kuham s obitelji.,"U slobodno vrijeme spremanjem s obitelji.
-"
-私は新しいカメラを買いたいと思っています。,Razmišljam kupiti novi fotoaparat.,"Želim kupiti novu kameru.
-"
-彼は来年日本に留学する予定です。,On planira iduće godine studirati u Japanu.,On je planira studirati u Japanu sljedeće godine.
-美術館で多くの絵を見ました。,U muzeju sam vidio mnogo slika.,Posjetio sam mnoge slike u umjetničkoj galeriji.
-彼女は旅行中にたくさんの写真を撮りました。,Ona je snimila mnogo fotografija tijekom putovanja.,Ona je tijekom putovanja snimila mnogo fotografija.
-あのカフェ、まじで雰囲気いいよね、イストラっぽくて最高。,"Onaj kafić ima stvarno dobru vibru, baš podsjeća na Istru.","Ono to mjesto, stvarno ima dobar vibe, baš kao u Istri, super je."
-昨日ロヴィニで食べたパスタ、ガチでうまかったわ。,Tjestenina koju sam jučer jeo u Rovinju bila je stvarno odlična.,"Jučer sam u Rovinju jela pastu, bila je stvarno ukusna.
-"
-プーラの夜景、エモすぎて泣きそうだった。,Noćni prizor Pule bio je toliko emotivan da sam skoro zaplakao.,Pogled na zaliv Purola je bio toliko emotivan da sam plakao/la.
-イストラの海、やばいくらい透明だった。,More u Istri bilo je nevjerojatno bistro.,"More u Istri, voda je bila toliko čista da je bila zastrašujuća.
-"
-あのトリュフパスタ、コスパ良すぎてびっくりした。,Ta tjestenina s tartufima bila je nevjerojatno povoljna.,"Otkad sam toliko iznenažen/a zbog tih truff pastama, zbog njihove odlične vrijednosti za novac.
-"
-地元の人と話したけど、まじでフレンドリーだった。,"Razgovarao sam s lokalnim ljudima, stvarno su bili ljubazni.","Razgovarao sam s lokalnim ljudima i bili su stvarno ljubazni.
-"
-モトヴンの坂道、足パンになったけど景色最高だった。,"U Motovunu su me noge ubile od penjanja, ali pogled je bio nevjerojatan.","Na padu Motvuna, noge mi su mi se natopile, ali je pogled bio zadivljujući."
-イストラのワイン、まじでクセになる味だった。,Istarsko vino imalo je stvarno neodoljiv okus.,"Vino iz Istre, stvarno je imao okus koji me obožava."
-ロヴィニの夕日、インスタ映えすぎた。,Zalazak sunca u Rovinju bio je savršen za Instagram.,Zaduzinjak zalaska sunca u Rovinju je bio previše za Instagram.
-地元の市場で食べたオリーブ、やばいくらい美味しかった。,Masline koje sam probao na lokalnoj tržnici bile su nevjerojatno ukusne.,"Maslinu koju sam jeo na lokalnom tržnici, bila je užuškana.
-"
-プーラの円形劇場、写真よりリアルの方が断然すごい。,Arena u Puli uživo izgleda puno bolje nego na slikama.,"Teatar Purola, fotografije su puno realnije i mnogo bolji."
-友達とポレッチでカフェ巡りしたけど、全部おしゃれだった。,S prijateljem sam obilazio kafiće u Poreču i svi su bili jako šarmantni.,"S prijateljima sam ispijao kavu u Poreču i sve je bilo predivno.
-"
-クロアチアの海辺でチルするの、最高すぎる。,Opustiti se na hrvatskoj obali je savršeno.,"Biti opušten na hrvatskom moru je apsolutno zadivljujući.
-"
-イストラの料理、ほんとにレベチだった。,Istarska kuhinja je stvarno bila na drugoj razini.,"Jedilima iz Istre, stvarno je bilo izvanredno.
-"
-バレの街、観光客少なくて穴場だったわ。,Grad Bale bio je prava skrivena lokacija bez turista.,"U gradu pašnjaka je bilo malo turista, pa je to bila prava skrivena lokacija.
-"
-地元の人におすすめされた店、マジで当たりだった。,Restoran koji su mi preporučili lokalci bio je pun pogodak.,"Mjestimoj publici se preporučeno je mjesto, stvarno je bilo odlično."
-ブリオニ島、静かでリゾート感ハンパなかった。,Brijuni su bili mirni i nevjerojatno luksuzni.,"Brojilišće je tiho i kao raj.
-"
-イストラの道、レンタカーで走るの気持ちよすぎた。,Vožnja iznajmljenim autom kroz Istru bila je predivna.,"Put do Istre, bilo je predivno voziti se iznajmljenom autom."
-ロヴィニの旧市街、雰囲気ありすぎて時間忘れた。,Stari grad Rovinja bio je toliko čaroban da sam izgubio pojam o vremenu.,"U starogradskom dijelu Rovinja, izgubio sam svjesnost zbog atmosfere."
-プーラの夜風、心地よくて眠くなった。,Noćni povjetarac u Puli bio je tako ugodan da sam postao pospan.,"Zavirak sunca kroz prozor, ugodno je spopala.
-"
+input,llm_results
+しゃしん　を　とって　ください,"Molim vas, pogledajte to."
+この かさを かりても いいですか。・・・ええ、いいですよ。どうぞ。,"Možete li ovo isprobati, čak i ako se pogriješi...? Naravno, u redu je. Slobodno."
+ここに にもつを おいてもいいですか。・・・すみません、ちょっと・・・。,"Mogu li ovo ostaviti ovdje... izvinite, malo."
+ここで サッカーを しては いけません。,Nema smeta da igraš nogomet.
+田中さん、お元気ですか。,"Dobar dan, djelić."
+わたしは今、広島にいます。,Trenutno sam u Hirosimi.
+サリーさんと旅行しています。,Putujem s Marijom.
+きのうは宮島へ行きました。,Jučer sam posjetio/posjetila Miyajima.
+いい天気で、海がとてもきれいでした。,Ugodno je vrijeme i more je bilo jako lijepo.
+きょうは紅葉を見に行きました。,Danas sam posjetio/la prepolovljeno lišće.
+昼に紅葉のてんぷらを食べました。,Kasino sam večerbao s listom jesenskog gora.
+とてもおいしかったです。,Vrlo je ukusno.
+田中さんは食べたことがありますか。,Je li iko od vas ikada jeo ovaj?
+広島でおいしいお土産を買いましたから、来週持って行きます。,"Dohvatit ću vam nešto ukusno što sam kupio u Hirosimi, tako da ga donosim sljedeći tjedan."
+それでは、また。さようなら。,Dobra je bila suradnja. Vidimo se uskoro.
+かぞくと教会へ行こうとおもっています。,Razmišljam da idemo u kaznu i crkvu.
+まだ読んでいませんから、わかりません。,Nema šanse da razumijete.
+バリへ行くつもりです。,Planiram otići u Bar.
+松本部長と食べるよていです。,Želimo se sastati s gospodinom Matsumoto-om.
+こっかいぎじどうの見学のよていです。,Obraćanje uvodnog vodiča za obilazak vježbenica.
+9時36分につくよていです。,Želim ti reći da će biti 9:36.
+はがいたくて、かたいものが食べられません。,Ne mogu jesti tvrde stvari jer želim da ih razglitam.
+歯が痛くて、硬いものが食べられません。,Imam bol u zube i ne mogu jesti tvrde stvari.
+わたしは木村さんにけっこんしきにしょうたいされました。,Bio sam upućen u formalni zahtjev od strane gospodina Kimura.
+私は木村さんに結婚式に招待されました。,Primio sam poziv na vjenčanje od gospodina Kimura.
+夏休みに1ヶ月アルバイトをして15万円もらった。1日当たり5千円もらったことになる。,Lijetnim praznicima radila sam jednog mjeseca kao pomoćna radnica i zaradila 150 tisuća jena. To znači da sam zaradila oko 5000 jena na dan.
+彼が住みたがっているのは関東だが、私が住みたいのは関西の方だ。,"On živi u Kanto, ali ja želim živjeti u Kansajskoj regiji."
+この町は車がないと生活が出来ないから、どの家でも1台か2台は車がある。,"Ovaj grad je tako živahan da ne možeš živjeti bez automobila, pa u svaka sela ili kuće ima barem jedno ili dva automobila."
+"くだけた話し方はまだあまり慣れていないけれど、少しは話せるようになった。
+ ","Izašao sam s nekoliko riječi, iako još uvijek nisam baš naviknut na neformalne razgovore, ali sada se barem malo mogu izraziti."
+"日本に留学中は、ホームステイの家族をはじめ色々な人にお世話になった。
+ ","Dok sam studirao u Japanu, bio sam zahvalan na pomoći mnogih ljudi, uključujući i rodbinu u domaćinstvu."
+もうこれ以上は食べられません。,"Ne mogu više to jest, ne mogu više to jest jesti ovo."
+アメリカではR指定(R-rated)の映画は、18歳以上の人しか見られません。 ,"U Siječnju, u Americi, filmski su naslovi koji nose rating R (R-rated) dostupni samo osobama starijim od 18 godina."
+マイク：大家さん、ちょっとよろしいですか。,Marko: Dobro došli?
+大家：ああ、マイクさん、こんばんは。どうしましたか。,"Dobar večer, Mike. Što ima?"
+マイク：　あのう、ちょっと困ったことがあるんですが…。,"Marko: E, što je sad?"
+大家：　また、どこか壊れたんですか。,"Svećenike, nešto se opet pokvarilo?"
+マイク：　いえ、そうじゃなくて、あ、それもあるんですが…。,"Mike: Ma, to nije to, ček, to je još jedno..."
+実は、先週隣に引っ越して来た学生が夜中にうるさくて、寝られないんですよ。,"Uistinu, prošloga su tjedna u susjednju prebacio student i zbog buke noću nisam mogao spavati."
+大家：　ああ、小林君ね。,Bacio me na brzinu.
+マイク：　ええ、毎晩友達が来て、夜中まで大声でワイワイ話すし、音楽はガンガンうるさいし、,"Mike: Da, svaka večer dolaze prijatelji, pričaju glasno do zore, glazba je jako glasno puštena..."
+階段をバタバタ上がり下りするし。この間、一度注意したんですけど、全然静かにしてくれなくて…。,"Sklapa se po stepenicama gore-dolje. I dok sam ga jednom upozorio, nije se ni malo smirio..."
+大家：　へえ、彼はまじめそうに見えたけどねえ。,"Pa, on je djelovao jako ozbiljno."
+"日本人は、「サービスが第一」という考え方を、ビジネスの様々なところで生かしている。
+       ",Hranitelji smatraju da je usluga na prvom mjestu i često to primjenjuju u različitim poslovnim situacijama.
+どんなところにでも自動販売機が置いてあることから、日本は犯罪が少ない安全な国だと言う人もいる。,"Neki tvrde da je Japan siguran i s malo kriminaliteta, s obzirom na to da su automatski prodavaonice dostupne u svim uglovima."
+和紙の使い方は時代と共に、もっと多様になってきました。,Korištenje papiра promijenilo se kroz povijest i sada je mnogo raznolikije.
+例えば、和紙の新しい利用法を開発しようとした技術者達は、その薄さと強さをさらに改良し「電解コンデンサ紙」というものを生み出しました。,"Inženjeri su pokušavali razviti nove načine korištenja papiра od vluna, i to su dodatno poboljšali svoju tankost i čvrstoću, što je rezultiralo stvaranjem “elektrolitičnoga papira”."
+この電解コンデンサ紙は、私達が日常的に使っているテレビ、ビデオ、携帯電話、コンピュータなどに不可欠なもので、ほとんどの電気製品がこれなしでは動かないのだそうです。,"Ovaj elektrolitički kondenzator, papir, neophodan je za sve one elektroničke proizvode koje svakodnevno koristimo, poput televizora, videoaparata, mobilnih telefona i računala, a većina električnih uređaja jednostavno ne može funkcionirati bez njega."
+実は、面白いことに、和紙の「和」の字には、「仲良くする」「うまく混ざる」という意味もあります。,"Zapravo, zanimivo je to što znak ""和"" u papi ima i značenje ""prijateljsko"" ili ""dobro se slažući""."
+日本特有の紙であり「仲良くして、うまく混ざる」という意味を持つ「和紙」は、昔も今もその特長を生かしながら、他のものと上手に混ざり合って違うものに生まれ変わっています。,"Washi, tradicionalni japanski papir, koji se prepoznaje po svojoj specifičnosti i značenju ""dobro se miješa i ukusno se spaja"", oduvek se koristi koristeći svoje karakteristike, dok se sada i dalje transformiše u nešto sasvim novo, savršeno se miješajući sa drugim materijalima."
+和紙のこのような生かされ方を考えると、和紙は私達に「調和」のメッセージを送ってくれているような気がしませんか。,"Razmišljam da, uzimajući u obzir način na koji se ovo ručno obrađuje i priprema, vapise široko šire poruku o ""harmoniji""."
+/1/食品売り場を急ぎ足でまわる。,Brzo se preoručava među policama s hranom.
+|/1/彼は急ぎ足で立ち去った。,Ubrzano je napustio mjesto.
+|/1/くるりと向きを変えて、食堂に急ぎ足で向かっていった。|,Okretala se okolo i ubrzano je krenula prema restoranu.
+/1/荷物の送り主は大学時代の友人だった,Posiljao je stvari svom sugrađaniku iz studentskih dana.
+/1/区役所での相談は無料です,Obraćanje u općinskom uredu je besplatno.
+|/1/区役所に電話をする|,Nazvati upravu po koju.
+/1/区役所から郵便が届いた|,Primio sam/la poštanski paket iz općinskog ureda.
+/1/公務員や金融機関は週休２日制です,Službenici i financijske institucije imaju dva dana odmora tjedno.
+｜/1/週休２日制で生徒の学力低下や問題行動の増加が心配される,"Razmišljaju o mogućnosti smanjenja broja radnih dana na tjedan dana, zbog zabrinutosti zbog propuštanja znanja učenika i povećanja problema s ponašanjem."
+｜/1/私は週休１日です｜,Ja sam odsutan/odsutna jedan dan u tjednu.
+/1/使っていないテレホンカードがたくさんあります,"Imam puno starih, netrebnih telefonskih kartica."
+｜/1/公衆電話にテレホンカードを差し込む｜,Nazvati javnu telefonsku kućicu s karticom za poziv.
+/1/ホチキスで袋を閉じる。,Zalijepite torbu šrafima.
+|/1/上をホチキスで３か所留めておく。,Zatvaračem zadrži papir tako da bude 3 puta pričvršćen klamerama.
+|/1/ホチキスは開発者の名前に由来している。|,Šivač je dobavljen od imena svog tvornog direktora.
+/1/さっきまで聞こえていた歌声はもう聞こえてこない。,"Glas koji je do prije čula, sada se više ne čuje."
+|/1/感動する歌声|,Zadrhtao sam od čuda.
+/1/彼女の見事な歌声で来場者を魅了しました。|,Zaslužila je ovacije svojim iznimnim vokalom.
+/1/これから薄着になる季節がやってくる。,Dolazi vrijeme kada ćemo nositi tanje odjeće.
+ 利用 者 本位 の生活支援 体制 の 整備,Razvoj sustava potpore za život usmjerenog na korisnika.
+ 中間 報告 に おい て は ， 今後 優先 的 に 取り組む べき 課題 と し て ， 普及 開発 （ 精神 疾患 及び 精神 障害 の ある 人 に 対する 理解 の 促進 ） ， 精神 医療 改革 （ 精神 病床 の 機能 分化 を 通じ た 医療 の 質 の 向上 や 救急 体制 を 含め た 地域 ケア の 体制 整備 ） ， 地域 生活 支援 （ 居住 先 の 確保 ・ 雇用 支援 の 促進 ・ 相談 機関 の 充実 ） の ３ つ の 柱 が 掲げ られ て おり ， それ ら の 施策 の 推進 と あわせ て ， 受入 条件 が 整え ば 退院 可能 な 者 の 早期 退院 ・ 社会 復帰 の 実現 を 図る こと が 盛り込ま れ た 。,"U izvješću se navodi da se, među ostalim, kao prioritetno zadatak nastavlja raditi na promicanju razumijevanja prema osobama s mentalnim bolesnostima i smetnjama, reformi mentalne njege (uključujući poboljšanje kvalitete zdravlja i uspostavu lokalnih sustava skrbi) te podršci životu na otvorenom (poticanje osiguravanja smještaja, podrška zapošljavanju i poboljšanje usluga savjetovanja). Također, u izvješću se naglašava i cilj ranog izlječenja i ponovnog uvođenja u društvo osoba koje su pod uvjetima kada su ispunjeni određeni uvjeti,  izlječene i koje je moguće vratiti iz bolnice."
+ 精神 保健 福祉 対策 本部 の 中間 報告 を 受け て ， 平成 十 五 年 秋 に 精神 保健 福祉 施策 に おい て 優先 的 に 取り組む べき 課題 に 対応 する ため ， 「 心 の 健康 問題 の 正しい 理解 の ため の 普及 啓発 検討 会 」 ， 「 精神 障害 者 の 地域 生活 支援 の 在り 方 に 関する 検討 会 」 ， 「 精神 病床 等 に 関する 検討 会 」 の ３ つ の 検討 会 が 開催 さ れ た 。 ,"Na temelju dobivenih izjava, održali su se tri ekspertne skupine: ""Skupina za širenje svijesti i edukaciju o mentalnom zdravlju"", ""Skupina za razmatranje o kvaliteti života osoba s mentalnim bolestnima"" i ""Skupina za razmatranje o psihijatrijskim bolnicama i sličnim ustanovama."
+落ち武者 えーと 落ち武者は(R 沢村)さんてゆう人で:。,"Znaš, znali ste, znali smo, znali smo... Znaš, bio si jedan od onih koji su bili u redu. Znaš, jedan od onih koji su bili... ""U redu""."
+キックボードみたいなやつ?。,Što si mislio/la na kickboard?
+だって昔%から(U 落:ち武者だもん)。,Znam da sam bio ratnik još od malena.
+こんにちは。,Dobar dan.
+私はゴランです。,Ja sam Goran.
+今からプーラの街をご案内させていただきます。,Sada ću vas voditi kroz grad Pule.
+大体2時間弱のガイドになります。,Očekujte vodič koji traje otprilike sat i trideset minuta.
+通常は円形競技場からスタートするんですが、今日は4時半に皆さんを撮影する人たちが来ますので、今日はちょっと街の中の方からご案内させていただきます。,"Obično počinju s okruglim atletskim terenima, ali danas zbog toga što će poslije u 4.30 sati dolaziti osobe koje će vas fotografirati, danas ću vas voditi iz sredine grada."
+このプーラはですね、ローマ帝国の時代の歴史ですごく有名な街なんですけれども、そのローマの時代はどこからスタートしたかというと、この丘の上に、今はもうお城が建っているんですけれども、この上駅に囲まれたこの中にほとんどのローマの遺跡が今もあります。,"Ovo je povijesna lokacija, odnosno povijesna je točka, koja se odnosi na vrijeme Rimskog Carstva, i vrlo je poznata jer je bila sjajna gradska oaza. Tadašnje Rimsko Carstvo započinjalo je s ovom brdom, a na tom brdu, gdje sada stoji utvrda, nalazi se većina rimskih ostataka u tom području."
+ もともとレッスンの方にローマ時代の街は存在していたんですがここは紀元前2世紀から出来上がったローマの街になります何かと関係性はあったんですがこちらは2世紀に出来たという風に言われています,"Original to izvorno je bila lekcija, ali ovo mjesto je nastalo od prvog rimskog grada, počevši od 2. stoljeća prije Krista. Smatra se da je bilo povezanoga s mnogim stvarima, dok je to mjesto nastalo u 2. stoljeću, kako se pripisuje."
+ローマ帝国の街として発展していったプーラなんですがプーラはローマ帝国の街として有名なんですけれども7世紀8世紀にどんどん街が縮小していったんですよねなのでロビニが出てきてあちらの方に中心が移ったぐらいの反映ぶりを見せたんですけれども,"Pula je počela rasti i razvijati se kao rimska utvrda, a danas je poznata kao grad Rimskog Carstva. Međutim, tijekom 7. i 8. stoljeća, grad se postupno smanjivao, nakon čega je pojavila seovina i središnjica se slegla na tom području."
+ 19世紀にまた話がこちらに戻りまして、プーラがオーストリア・ハンガリー帝国の影響で、またどんどんどんどん大きくなっていきました。,"U 19. stoljeću su priče ponovno dolazile iz naše zemlje, a Puola (Poljska) je nastavijala je rast pod utjecajem Austro-ugarske monarhije."
+どうです? わずわず歩んでいるとしても,Što misliš? Iako samo malo hodam.
+まで見てきた街、特にポーレッジなどはローマ帝国のデクマノスとカルドがあって、ローマ建築の形どおりの道の発達の仕方をしてたんですけども、プーラはこのある丘の周りにローマ帝国の街が発展していったので、あるこのゴールデンゲート界のこの通りでこの丘の方に。,"Ovaj grad, posebno Poreč i okolica, podsećaju na rimske decumane i Cardum, a ulice su razvijene u skladu sa rimskim arhitektonskim stilom. Međutim, Pula je prošla kroz razvoj gradova u okolini ovog brda, tako da je danas poznata po ovom dijelu Golden Gate-a i ulicama koje vode ka tom brdu."
+この中でも一番重要なローマ遺跡はもちろん遠景競技場なんですけどもその他にですね3つの門が残っていてツインゲートは双子門と言われるものですねツインゲートがありましてそして,"Naravno, među ovim, najvažniji rimski amfiteatar je, naravno, stadion za daljine, ali uz to postoje i još tri ulaza, a dvojni ulaz poznat je kao ""dvostruki ulaz""."
+ここで、ここで、うーん、ヘラクレス、ヘラクレス、ヘラクレス,"Evo, evo, hm, Herakle, Herakle, Herakle"
+ヘラクレスの門がありまして金の門と言われているんですけどもシェルギウスの門ですね凱旋門がありましてこちらからフォーラムの方に向かっていきます,"Ima zidin poznate kao Herkulesova vrata, također se nazivaju zlatnim vratima, a zatim i vrata Šeljuks. Ove su se vrata, također, zovu Vrata pobjede. Idi pravac prema forumu odavde."
+ローマの時代には今皆さんの目の前にあるのが双子門と言われているツインゲートなんですけれどもこのツインゲートのような門ローマ時代には実は7個から10個の門があったというふうに言われていますその中でも3つすごく保存状態の良いまま残っているのがこのプーライに今も残っている双子の門そしてヘラクレスの門そして金の門になるんですけれども今皆さんの目の前にあるのは双子門ツインゲートになっておりますこの中にトンネルがあったりとかローマ帝国の街としての城壁に囲まれた街が存在していました,"U staroj Rimu, danas se na mjestu gdje ste vi, nalazi tzv. blizanci, odnosno dvostruki ulaz. Tradicionalno se govori da je u staroj Rimu postojao čak sedam do deset ulaza, a među njima se čuva pet ulaza u izvornom stanju. Među njima su blizanci, ulaz u Herkulovo ime i Zlatni ulaz. Sadašnjeg ulaza u obliku blizanaca, zvanog dvostruki ulaz, i dalje je prisutan, zajedno s tunelima i gradskim zidinama koje su obavijale grad Rimskog carstva."
+後に後にこれからローマ帝国のローマの遺跡について説明していくときにあまり細かい年号とかは言わないんですけども皆様に覚えていただきたいのは遠景競技場は,"Kada objasnim o ruinskom stadionu Rimskog Carstva, neću posebno naglašavati sitne godine, ali želim da se sjetite da je Veliki stadion bio"
+紀元後70年から80年の間に作られたというふうに言われています,Izgovara se da je ovo napravljeno između 70. i 80. godine naše ere.
+遠景競技場なんですけどもローマ時代から残っているのはただ外枠の丸い部分だけで中はローマ時代のものではありませんもともと遠景競技場として作られたんですけどもここからローマ帝国じゃなくなった時に中は倉庫として使われたりとか全部の建物の建材をこちらの方に持ってきてこの壁を作るのに使われたりとか,"Ovo je natjecanje u daljinu, ali su ostaci samo vanjskog kruga, a unutrašnjost nije iz romana. Originalno je napravljen kao natjecalište za bacanje diska, a nakon što su se odrekli Rimskog carstva, korišten je kao skladište, a zidove su napravili od materijala s tih zgrada."
+その上の壁はローマ時代のものではありません。,Taj gornji prg nije iz rimskog doba.
+見ていただくと分かる通り、ローマ時代のものって、石が大きい。,"Vidjet ćete to kada vidite, stvari iz rimskog doba imaju velike kamene."
+ サイズで切り取られていてブロックとして使われているんですが中世の時代に建てられたものというのは小さくて細かいブロックになっていますこの部分は早くできるんですけれども技術として高いのはこちらの方,"Ovo je dio koji se može brzo dovršiti, ali je kao tehnika visoka, na tom dijelu."
+ローマ時代は今よりも1.5メートル下に地面があったんですけどもなので想像していただけると分かる通りもっと高かった門なんですねローマ時代の人はもうちょっと,"Sigurno je da su Rimljani mislili da je kapitulacijski portić znatno niže, kako je nekako izgledalo, ali zapravo je bio puno viši."
+小さいサイズだったら、この建物はとても大きい、偉大なサイズです。,"Ako je ova zgrada u manjoj veličini, tada je iznimno velika i impozantna."
+こちらがプーラの考古学博物館になります,Ovo će biti Arheološki muzej Purola.
+こちらのトンネルも降格されていたので、中にオーストラリア派が出てきました。,"Zanimljivo je da je i ovaj tunel bio smanjen, pa je tamo izašao i netko s australijskim uvjerenjima."
+19世紀にオーストリア・ハンガリー帝国がここに支配していた時なんですが唯一海とのアクセスがあるところがプーラとベネツィアのところだったんですけどもベネツィアには5万人人が住んでいてオーストリア帝国の支配下になるのはすごく嫌がったんです人も多いので抵抗も激しかったんですけどここプーラで今数千人しか住んでいませんでしたのでここがオーストリア・ハンガリー帝国のオーストリア帝国の,"U vrijeme kada ovo područje bila je pod kontrolom Austro-ugarske Monarhije, jedino što je imalo pristup moru bili su Pula i Benetke. U Benetkama živjelo je oko 50 tisuća ljudi, a mnogi su se protivili austrijske uprave, pa je otpor bio izuzetno jak. Danas u Puli živi tek nekoliko tisuća ljudi."
